@@ -38,8 +38,8 @@ Develop a *web-based calculator* with the following features:
 
 ## 📸 Screenshot
 
-> (Add image if available)  
-![Calculator Preview](![image](https://github.com/user-attachments/assets/8945e770-f44b-4cb6-9ed7-b4550666e8c7)
-)
+> (Add image if available)
+> ![Calculator Preview](./!(https://github.com/user-attachments/assets/34cc2cca-ff72-4960-a458-927b3f5334fe)
+
 
 ---
